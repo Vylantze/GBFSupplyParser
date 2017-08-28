@@ -1,0 +1,771 @@
+	<div class="lis-item se" data-index="0" data-item-type="treasure"><img src="./Granblue Fantasy_files/2.jpg"><div class="prt-having-num">51</div>
+<div class="watch-button" title="Show item on sidebar" itemid="2"></div>
+</div>
+<div class="lis-item se" data-index="1" data-item-type="treasure"><img src="./Granblue Fantasy_files/3.jpg"><div class="prt-having-num">64</div>
+<div class="watch-button" title="Show item on sidebar" itemid="3"></div>
+</div>
+<div class="lis-item se" data-index="2" data-item-type="treasure"><img src="./Granblue Fantasy_files/14.jpg"><div class="prt-having-num">85</div>
+<div class="watch-button" title="Show item on sidebar" itemid="14"></div>
+</div>
+<div class="lis-item se" data-index="3" data-item-type="treasure"><img src="./Granblue Fantasy_files/4.jpg"><div class="prt-having-num">93</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4"></div>
+</div>
+<div class="lis-item se" data-index="4" data-item-type="treasure"><img src="./Granblue Fantasy_files/5.jpg"><div class="prt-having-num">73</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5"></div>
+</div>
+<div class="lis-item se" data-index="5" data-item-type="treasure"><img src="./Granblue Fantasy_files/15.jpg"><div class="prt-having-num">95</div>
+<div class="watch-button" title="Show item on sidebar" itemid="15"></div>
+</div>
+<div class="lis-item se" data-index="6" data-item-type="treasure"><img src="./Granblue Fantasy_files/6.jpg"><div class="prt-having-num">82</div>
+<div class="watch-button" title="Show item on sidebar" itemid="6"></div>
+</div>
+<div class="lis-item se" data-index="7" data-item-type="treasure"><img src="./Granblue Fantasy_files/7.jpg"><div class="prt-having-num">75</div>
+<div class="watch-button" title="Show item on sidebar" itemid="7"></div>
+</div>
+<div class="lis-item se" data-index="8" data-item-type="treasure"><img src="./Granblue Fantasy_files/16.jpg"><div class="prt-having-num">93</div>
+<div class="watch-button" title="Show item on sidebar" itemid="16"></div>
+</div>
+<div class="lis-item se" data-index="9" data-item-type="treasure"><img src="./Granblue Fantasy_files/8.jpg"><div class="prt-having-num">120</div>
+<div class="watch-button" title="Show item on sidebar" itemid="8"></div>
+</div>
+<div class="lis-item se" data-index="10" data-item-type="treasure"><img src="./Granblue Fantasy_files/9.jpg"><div class="prt-having-num">120</div>
+<div class="watch-button" title="Show item on sidebar" itemid="9"></div>
+</div>
+<div class="lis-item se" data-index="11" data-item-type="treasure"><img src="./Granblue Fantasy_files/17.jpg"><div class="prt-having-num">99</div>
+<div class="watch-button" title="Show item on sidebar" itemid="17"></div>
+</div>
+<div class="lis-item se" data-index="12" data-item-type="treasure"><img src="./Granblue Fantasy_files/22.jpg"><div class="prt-having-num">96</div>
+<div class="watch-button" title="Show item on sidebar" itemid="22"></div>
+</div>
+<div class="lis-item se" data-index="13" data-item-type="treasure"><img src="./Granblue Fantasy_files/23.jpg"><div class="prt-having-num">79</div>
+<div class="watch-button" title="Show item on sidebar" itemid="23"></div>
+</div>
+<div class="lis-item se" data-index="14" data-item-type="treasure"><img src="./Granblue Fantasy_files/24.jpg"><div class="prt-having-num">72</div>
+<div class="watch-button" title="Show item on sidebar" itemid="24"></div>
+</div>
+<div class="lis-item se" data-index="15" data-item-type="treasure"><img src="./Granblue Fantasy_files/27.jpg"><div class="prt-having-num">98</div>
+<div class="watch-button" title="Show item on sidebar" itemid="27"></div>
+</div>
+<div class="lis-item se" data-index="16" data-item-type="treasure"><img src="./Granblue Fantasy_files/28.jpg"><div class="prt-having-num">82</div>
+<div class="watch-button" title="Show item on sidebar" itemid="28"></div>
+</div>
+<div class="lis-item se" data-index="17" data-item-type="treasure"><img src="./Granblue Fantasy_files/29.jpg"><div class="prt-having-num">94</div>
+<div class="watch-button" title="Show item on sidebar" itemid="29"></div>
+</div>
+<div class="lis-item se" data-index="18" data-item-type="treasure"><img src="./Granblue Fantasy_files/33.jpg"><div class="prt-having-num">121</div>
+<div class="watch-button" title="Show item on sidebar" itemid="33"></div>
+</div>
+<div class="lis-item se" data-index="19" data-item-type="treasure"><img src="./Granblue Fantasy_files/34.jpg"><div class="prt-having-num">117</div>
+<div class="watch-button" title="Show item on sidebar" itemid="34"></div>
+</div>
+<div class="lis-item se" data-index="20" data-item-type="treasure"><img src="./Granblue Fantasy_files/35.jpg"><div class="prt-having-num">112</div>
+<div class="watch-button" title="Show item on sidebar" itemid="35"></div>
+</div>
+<div class="lis-item se" data-index="21" data-item-type="treasure"><img src="./Granblue Fantasy_files/38.jpg"><div class="prt-having-num">47</div>
+<div class="watch-button" title="Show item on sidebar" itemid="38"></div>
+</div>
+<div class="lis-item se" data-index="22" data-item-type="treasure"><img src="./Granblue Fantasy_files/39.jpg"><div class="prt-having-num">29</div>
+<div class="watch-button" title="Show item on sidebar" itemid="39"></div>
+</div>
+<div class="lis-item se" data-index="23" data-item-type="treasure"><img src="./Granblue Fantasy_files/40.jpg"><div class="prt-having-num">28</div>
+<div class="watch-button" title="Show item on sidebar" itemid="40"></div>
+</div>
+<div class="lis-item se" data-index="24" data-item-type="treasure"><img src="./Granblue Fantasy_files/52.jpg"><div class="prt-having-num">43</div>
+<div class="watch-button" title="Show item on sidebar" itemid="52"></div>
+</div>
+<div class="lis-item se" data-index="25" data-item-type="treasure"><img src="./Granblue Fantasy_files/53.jpg"><div class="prt-having-num">23</div>
+<div class="watch-button" title="Show item on sidebar" itemid="53"></div>
+</div>
+<div class="lis-item se" data-index="26" data-item-type="treasure"><img src="./Granblue Fantasy_files/54.jpg"><div class="prt-having-num">11</div>
+<div class="watch-button" title="Show item on sidebar" itemid="54"></div>
+</div>
+<div class="lis-item se" data-index="27" data-item-type="treasure"><img src="./Granblue Fantasy_files/69.jpg"><div class="prt-having-num">34</div>
+<div class="watch-button" title="Show item on sidebar" itemid="69"></div>
+</div>
+<div class="lis-item se" data-index="28" data-item-type="treasure"><img src="./Granblue Fantasy_files/70.jpg"><div class="prt-having-num">15</div>
+<div class="watch-button" title="Show item on sidebar" itemid="70"></div>
+</div>
+<div class="lis-item se" data-index="29" data-item-type="treasure"><img src="./Granblue Fantasy_files/71.jpg"><div class="prt-having-num">17</div>
+<div class="watch-button" title="Show item on sidebar" itemid="71"></div>
+</div>
+<div class="lis-item se" data-index="30" data-item-type="treasure"><img src="./Granblue Fantasy_files/89.jpg"><div class="prt-having-num">15</div>
+<div class="watch-button" title="Show item on sidebar" itemid="89"></div>
+</div>
+<div class="lis-item se" data-index="31" data-item-type="treasure"><img src="./Granblue Fantasy_files/90.jpg"><div class="prt-having-num">17</div>
+<div class="watch-button" title="Show item on sidebar" itemid="90"></div>
+</div>
+<div class="lis-item se" data-index="32" data-item-type="treasure"><img src="./Granblue Fantasy_files/91.jpg"><div class="prt-having-num">20</div>
+<div class="watch-button" title="Show item on sidebar" itemid="91"></div>
+</div>
+<div class="lis-item se" data-index="33" data-item-type="treasure"><img src="./Granblue Fantasy_files/98.jpg"><div class="prt-having-num">15</div>
+<div class="watch-button" title="Show item on sidebar" itemid="98"></div>
+</div>
+<div class="lis-item se" data-index="34" data-item-type="treasure"><img src="./Granblue Fantasy_files/99.jpg"><div class="prt-having-num">18</div>
+<div class="watch-button" title="Show item on sidebar" itemid="99"></div>
+</div>
+<div class="lis-item se" data-index="35" data-item-type="treasure"><img src="./Granblue Fantasy_files/100.jpg"><div class="prt-having-num">14</div>
+<div class="watch-button" title="Show item on sidebar" itemid="100"></div>
+</div>
+<div class="lis-item se" data-index="36" data-item-type="treasure"><img src="./Granblue Fantasy_files/119.jpg"><div class="prt-having-num">11</div>
+<div class="watch-button" title="Show item on sidebar" itemid="119"></div>
+</div>
+<div class="lis-item se" data-index="37" data-item-type="treasure"><img src="./Granblue Fantasy_files/120.jpg"><div class="prt-having-num">12</div>
+<div class="watch-button" title="Show item on sidebar" itemid="120"></div>
+</div>
+<div class="lis-item se" data-index="38" data-item-type="treasure"><img src="./Granblue Fantasy_files/121.jpg"><div class="prt-having-num">11</div>
+<div class="watch-button" title="Show item on sidebar" itemid="121"></div>
+</div>
+<div class="lis-item se" data-index="39" data-item-type="treasure"><img src="./Granblue Fantasy_files/122.jpg"><div class="prt-having-num">14</div>
+<div class="watch-button" title="Show item on sidebar" itemid="122"></div>
+</div>
+<div class="lis-item se" data-index="40" data-item-type="treasure"><img src="./Granblue Fantasy_files/123.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="123"></div>
+</div>
+<div class="lis-item se" data-index="41" data-item-type="treasure"><img src="./Granblue Fantasy_files/124.jpg"><div class="prt-having-num">11</div>
+<div class="watch-button" title="Show item on sidebar" itemid="124"></div>
+</div>
+<div class="lis-item se" data-index="42" data-item-type="treasure"><img src="./Granblue Fantasy_files/10.jpg"><div class="prt-having-num">150</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10"></div>
+</div>
+<div class="lis-item se" data-index="43" data-item-type="treasure"><img src="./Granblue Fantasy_files/18.jpg"><div class="prt-having-num">221</div>
+<div class="watch-button" title="Show item on sidebar" itemid="18"></div>
+</div>
+<div class="lis-item se" data-index="44" data-item-type="treasure"><img src="./Granblue Fantasy_files/32.jpg"><div class="prt-having-num">38</div>
+<div class="watch-button" title="Show item on sidebar" itemid="32"></div>
+</div>
+<div class="lis-item se" data-index="45" data-item-type="treasure"><img src="./Granblue Fantasy_files/11.jpg"><div class="prt-having-num">174</div>
+<div class="watch-button" title="Show item on sidebar" itemid="11"></div>
+</div>
+<div class="lis-item se" data-index="46" data-item-type="treasure"><img src="./Granblue Fantasy_files/19.jpg"><div class="prt-having-num">276</div>
+<div class="watch-button" title="Show item on sidebar" itemid="19"></div>
+</div>
+<div class="lis-item se" data-index="47" data-item-type="treasure"><img src="./Granblue Fantasy_files/47.jpg"><div class="prt-having-num">68</div>
+<div class="watch-button" title="Show item on sidebar" itemid="47"></div>
+</div>
+<div class="lis-item se" data-index="48" data-item-type="treasure"><img src="./Granblue Fantasy_files/12.jpg"><div class="prt-having-num">191</div>
+<div class="watch-button" title="Show item on sidebar" itemid="12"></div>
+</div>
+<div class="lis-item se" data-index="49" data-item-type="treasure"><img src="./Granblue Fantasy_files/20.jpg"><div class="prt-having-num">261</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20"></div>
+</div>
+<div class="lis-item se" data-index="50" data-item-type="treasure"><img src="./Granblue Fantasy_files/48.jpg"><div class="prt-having-num">70</div>
+<div class="watch-button" title="Show item on sidebar" itemid="48"></div>
+</div>
+<div class="lis-item se" data-index="51" data-item-type="treasure"><img src="./Granblue Fantasy_files/13.jpg"><div class="prt-having-num">159</div>
+<div class="watch-button" title="Show item on sidebar" itemid="13"></div>
+</div>
+<div class="lis-item se" data-index="52" data-item-type="treasure"><img src="./Granblue Fantasy_files/21.jpg"><div class="prt-having-num">238</div>
+<div class="watch-button" title="Show item on sidebar" itemid="21"></div>
+</div>
+<div class="lis-item se" data-index="53" data-item-type="treasure"><img src="./Granblue Fantasy_files/49.jpg"><div class="prt-having-num">205</div>
+<div class="watch-button" title="Show item on sidebar" itemid="49"></div>
+</div>
+<div class="lis-item se" data-index="54" data-item-type="treasure"><img src="./Granblue Fantasy_files/25.jpg"><div class="prt-having-num">177</div>
+<div class="watch-button" title="Show item on sidebar" itemid="25"></div>
+</div>
+<div class="lis-item se" data-index="55" data-item-type="treasure"><img src="./Granblue Fantasy_files/26.jpg"><div class="prt-having-num">300</div>
+<div class="watch-button" title="Show item on sidebar" itemid="26"></div>
+</div>
+<div class="lis-item se" data-index="56" data-item-type="treasure"><img src="./Granblue Fantasy_files/50.jpg"><div class="prt-having-num">24</div>
+<div class="watch-button" title="Show item on sidebar" itemid="50"></div>
+</div>
+<div class="lis-item se" data-index="57" data-item-type="treasure"><img src="./Granblue Fantasy_files/30.jpg"><div class="prt-having-num">166</div>
+<div class="watch-button" title="Show item on sidebar" itemid="30"></div>
+</div>
+<div class="lis-item se" data-index="58" data-item-type="treasure"><img src="./Granblue Fantasy_files/31.jpg"><div class="prt-having-num">243</div>
+<div class="watch-button" title="Show item on sidebar" itemid="31"></div>
+</div>
+<div class="lis-item se" data-index="59" data-item-type="treasure"><img src="./Granblue Fantasy_files/51.jpg"><div class="prt-having-num">79</div>
+<div class="watch-button" title="Show item on sidebar" itemid="51"></div>
+</div>
+<div class="lis-item se" data-index="60" data-item-type="treasure"><img src="./Granblue Fantasy_files/41.jpg"><div class="prt-having-num">16</div>
+<div class="watch-button" title="Show item on sidebar" itemid="41"></div>
+</div>
+<div class="lis-item se" data-index="61" data-item-type="treasure"><img src="./Granblue Fantasy_files/42.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="42"></div>
+</div>
+<div class="lis-item se" data-index="62" data-item-type="treasure"><img src="./Granblue Fantasy_files/43.jpg"><div class="prt-having-num">13</div>
+<div class="watch-button" title="Show item on sidebar" itemid="43"></div>
+</div>
+<div class="lis-item se" data-index="63" data-item-type="treasure"><img src="./Granblue Fantasy_files/44.jpg"><div class="prt-having-num">11</div>
+<div class="watch-button" title="Show item on sidebar" itemid="44"></div>
+</div>
+<div class="lis-item se" data-index="64" data-item-type="treasure"><img src="./Granblue Fantasy_files/45.jpg"><div class="prt-having-num">9</div>
+<div class="watch-button" title="Show item on sidebar" itemid="45"></div>
+</div>
+<div class="lis-item se" data-index="65" data-item-type="treasure"><img src="./Granblue Fantasy_files/46.jpg"><div class="prt-having-num">11</div>
+<div class="watch-button" title="Show item on sidebar" itemid="46"></div>
+</div>
+<div class="lis-item se" data-index="66" data-item-type="treasure"><img src="./Granblue Fantasy_files/55.jpg"><div class="prt-having-num">1271</div>
+<div class="watch-button" title="Show item on sidebar" itemid="55"></div>
+</div>
+<div class="lis-item se" data-index="67" data-item-type="treasure"><img src="./Granblue Fantasy_files/59.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="59"></div>
+</div>
+<div class="lis-item se" data-index="68" data-item-type="treasure"><img src="./Granblue Fantasy_files/107.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="107"></div>
+</div>
+<div class="lis-item se" data-index="69" data-item-type="treasure"><img src="./Granblue Fantasy_files/111.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="111"></div>
+</div>
+<div class="lis-item se" data-index="70" data-item-type="treasure"><img src="./Granblue Fantasy_files/64.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="64"></div>
+</div>
+<div class="lis-item se" data-index="71" data-item-type="treasure"><img src="./Granblue Fantasy_files/76.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="76"></div>
+</div>
+<div class="lis-item se" data-index="72" data-item-type="treasure"><img src="./Granblue Fantasy_files/60.jpg"><div class="prt-having-num">5</div>
+<div class="watch-button" title="Show item on sidebar" itemid="60"></div>
+</div>
+<div class="lis-item se" data-index="73" data-item-type="treasure"><img src="./Granblue Fantasy_files/73.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="73"></div>
+</div>
+<div class="lis-item se" data-index="74" data-item-type="treasure"><img src="./Granblue Fantasy_files/62.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="62"></div>
+</div>
+<div class="lis-item se" data-index="75" data-item-type="treasure"><img src="./Granblue Fantasy_files/74.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="74"></div>
+</div>
+<div class="lis-item se" data-index="76" data-item-type="treasure"><img src="./Granblue Fantasy_files/65.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="65"></div>
+</div>
+<div class="lis-item se" data-index="77" data-item-type="treasure"><img src="./Granblue Fantasy_files/77.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="77"></div>
+</div>
+<div class="lis-item se" data-index="78" data-item-type="treasure"><img src="./Granblue Fantasy_files/78.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="78"></div>
+</div>
+<div class="lis-item se" data-index="79" data-item-type="treasure"><img src="./Granblue Fantasy_files/63.jpg"><div class="prt-having-num">24</div>
+<div class="watch-button" title="Show item on sidebar" itemid="63"></div>
+</div>
+<div class="lis-item se" data-index="80" data-item-type="treasure"><img src="./Granblue Fantasy_files/75.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="75"></div>
+</div>
+<div class="lis-item se" data-index="81" data-item-type="treasure"><img src="./Granblue Fantasy_files/80.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="80"></div>
+</div>
+<div class="lis-item se" data-index="82" data-item-type="treasure"><img src="./Granblue Fantasy_files/81.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="81"></div>
+</div>
+<div class="lis-item se" data-index="83" data-item-type="treasure"><img src="./Granblue Fantasy_files/82.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="82"></div>
+</div>
+<div class="lis-item se" data-index="84" data-item-type="treasure"><img src="./Granblue Fantasy_files/84.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="84"></div>
+</div>
+<div class="lis-item se" data-index="85" data-item-type="treasure"><img src="./Granblue Fantasy_files/83.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="83"></div>
+</div>
+<div class="lis-item se" data-index="86" data-item-type="treasure"><img src="./Granblue Fantasy_files/506.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="506"></div>
+</div>
+<div class="lis-item se" data-index="87" data-item-type="treasure"><img src="./Granblue Fantasy_files/507.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button" title="Show item on sidebar" itemid="507"></div>
+</div>
+<div class="lis-item se" data-index="88" data-item-type="treasure"><img src="./Granblue Fantasy_files/508.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="508"></div>
+</div>
+<div class="lis-item se" data-index="89" data-item-type="treasure"><img src="./Granblue Fantasy_files/509.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="509"></div>
+</div>
+<div class="lis-item se" data-index="90" data-item-type="treasure"><img src="./Granblue Fantasy_files/85.jpg"><div class="prt-having-num">14</div>
+<div class="watch-button" title="Show item on sidebar" itemid="85"></div>
+</div>
+<div class="lis-item se" data-index="91" data-item-type="treasure"><img src="./Granblue Fantasy_files/68.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="68"></div>
+</div>
+<div class="lis-item se" data-index="92" data-item-type="treasure"><img src="./Granblue Fantasy_files/87.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="87"></div>
+</div>
+<div class="lis-item se" data-index="93" data-item-type="treasure"><img src="./Granblue Fantasy_files/67.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="67"></div>
+</div>
+<div class="lis-item se" data-index="94" data-item-type="treasure"><img src="./Granblue Fantasy_files/1011.jpg"><div class="prt-having-num">132</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1011"></div>
+</div>
+<div class="lis-item se" data-index="95" data-item-type="treasure"><img src="./Granblue Fantasy_files/1021.jpg"><div class="prt-having-num">240</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1021"></div>
+</div>
+<div class="lis-item se" data-index="96" data-item-type="treasure"><img src="./Granblue Fantasy_files/1031.jpg"><div class="prt-having-num">442</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1031"></div>
+</div>
+<div class="lis-item se" data-index="97" data-item-type="treasure"><img src="./Granblue Fantasy_files/1041.jpg"><div class="prt-having-num">484</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1041"></div>
+</div>
+<div class="lis-item se" data-index="98" data-item-type="treasure"><img src="./Granblue Fantasy_files/1051.jpg"><div class="prt-having-num">545</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1051"></div>
+</div>
+<div class="lis-item se" data-index="99" data-item-type="treasure"><img src="./Granblue Fantasy_files/1061.jpg"><div class="prt-having-num">273</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1061"></div>
+</div>
+<div class="lis-item se" data-index="100" data-item-type="treasure"><img src="./Granblue Fantasy_files/1012.jpg"><div class="prt-having-num">85</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1012"></div>
+</div>
+<div class="lis-item se" data-index="101" data-item-type="treasure"><img src="./Granblue Fantasy_files/1022.jpg"><div class="prt-having-num">57</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1022"></div>
+</div>
+<div class="lis-item se" data-index="102" data-item-type="treasure"><img src="./Granblue Fantasy_files/1032.jpg"><div class="prt-having-num">198</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1032"></div>
+</div>
+<div class="lis-item se" data-index="103" data-item-type="treasure"><img src="./Granblue Fantasy_files/1042.jpg"><div class="prt-having-num">192</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1042"></div>
+</div>
+<div class="lis-item se" data-index="104" data-item-type="treasure"><img src="./Granblue Fantasy_files/1052.jpg"><div class="prt-having-num">350</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1052"></div>
+</div>
+<div class="lis-item se" data-index="105" data-item-type="treasure"><img src="./Granblue Fantasy_files/1062.jpg"><div class="prt-having-num">102</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1062"></div>
+</div>
+<div class="lis-item se" data-index="106" data-item-type="treasure"><img src="./Granblue Fantasy_files/1311.jpg"><div class="prt-having-num">124</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1311"></div>
+</div>
+<div class="lis-item se" data-index="107" data-item-type="treasure"><img src="./Granblue Fantasy_files/1321.jpg"><div class="prt-having-num">100</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1321"></div>
+</div>
+<div class="lis-item se" data-index="108" data-item-type="treasure"><img src="./Granblue Fantasy_files/1331.jpg"><div class="prt-having-num">76</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1331"></div>
+</div>
+<div class="lis-item se" data-index="109" data-item-type="treasure"><img src="./Granblue Fantasy_files/1341.jpg"><div class="prt-having-num">140</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1341"></div>
+</div>
+<div class="lis-item se" data-index="110" data-item-type="treasure"><img src="./Granblue Fantasy_files/1351.jpg"><div class="prt-having-num">122</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1351"></div>
+</div>
+<div class="lis-item se" data-index="111" data-item-type="treasure"><img src="./Granblue Fantasy_files/1361.jpg"><div class="prt-having-num">66</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1361"></div>
+</div>
+<div class="lis-item se" data-index="112" data-item-type="treasure"><img src="./Granblue Fantasy_files/1312.jpg"><div class="prt-having-num">94</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1312"></div>
+</div>
+<div class="lis-item se" data-index="113" data-item-type="treasure"><img src="./Granblue Fantasy_files/1322.jpg"><div class="prt-having-num">64</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1322"></div>
+</div>
+<div class="lis-item se" data-index="114" data-item-type="treasure"><img src="./Granblue Fantasy_files/1332.jpg"><div class="prt-having-num">133</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1332"></div>
+</div>
+<div class="lis-item se" data-index="115" data-item-type="treasure"><img src="./Granblue Fantasy_files/1342.jpg"><div class="prt-having-num">86</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1342"></div>
+</div>
+<div class="lis-item se" data-index="116" data-item-type="treasure"><img src="./Granblue Fantasy_files/1352.jpg"><div class="prt-having-num">63</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1352"></div>
+</div>
+<div class="lis-item se" data-index="117" data-item-type="treasure"><img src="./Granblue Fantasy_files/1362.jpg"><div class="prt-having-num">62</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1362"></div>
+</div>
+<div class="lis-item se" data-index="118" data-item-type="treasure"><img src="./Granblue Fantasy_files/1313.jpg"><div class="prt-having-num">680</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1313"></div>
+</div>
+<div class="lis-item se" data-index="119" data-item-type="treasure"><img src="./Granblue Fantasy_files/1323.jpg"><div class="prt-having-num">434</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1323"></div>
+</div>
+<div class="lis-item se" data-index="120" data-item-type="treasure"><img src="./Granblue Fantasy_files/1333.jpg"><div class="prt-having-num">940</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1333"></div>
+</div>
+<div class="lis-item se" data-index="121" data-item-type="treasure"><img src="./Granblue Fantasy_files/1343.jpg"><div class="prt-having-num">1016</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1343"></div>
+</div>
+<div class="lis-item se" data-index="122" data-item-type="treasure"><img src="./Granblue Fantasy_files/1353.jpg"><div class="prt-having-num">846</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1353"></div>
+</div>
+<div class="lis-item se" data-index="123" data-item-type="treasure"><img src="./Granblue Fantasy_files/1363.jpg"><div class="prt-having-num">712</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1363"></div>
+</div>
+<div class="lis-item se" data-index="124" data-item-type="treasure"><img src="./Granblue Fantasy_files/1201.jpg"><div class="prt-having-num">196</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1201"></div>
+</div>
+<div class="lis-item se" data-index="125" data-item-type="treasure"><img src="./Granblue Fantasy_files/1202.jpg"><div class="prt-having-num">197</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1202"></div>
+</div>
+<div class="lis-item se" data-index="126" data-item-type="treasure"><img src="./Granblue Fantasy_files/1203.jpg"><div class="prt-having-num">580</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1203"></div>
+</div>
+<div class="lis-item se" data-index="127" data-item-type="treasure"><img src="./Granblue Fantasy_files/1204.jpg"><div class="prt-having-num">575</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1204"></div>
+</div>
+<div class="lis-item se" data-index="128" data-item-type="treasure"><img src="./Granblue Fantasy_files/1111.jpg"><div class="prt-having-num">45</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1111"></div>
+</div>
+<div class="lis-item se" data-index="129" data-item-type="treasure"><img src="./Granblue Fantasy_files/1121.jpg"><div class="prt-having-num">29</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1121"></div>
+</div>
+<div class="lis-item se" data-index="130" data-item-type="treasure"><img src="./Granblue Fantasy_files/1131.jpg"><div class="prt-having-num">101</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1131"></div>
+</div>
+<div class="lis-item se" data-index="131" data-item-type="treasure"><img src="./Granblue Fantasy_files/1141.jpg"><div class="prt-having-num">35</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1141"></div>
+</div>
+<div class="lis-item se" data-index="132" data-item-type="treasure"><img src="./Granblue Fantasy_files/1151.jpg"><div class="prt-having-num">7</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="1151"></div>
+</div>
+<div class="lis-item se" data-index="133" data-item-type="treasure"><img src="./Granblue Fantasy_files/1161.jpg"><div class="prt-having-num">44</div>
+<div class="watch-button" title="Show item on sidebar" itemid="1161"></div>
+</div>
+<div class="lis-item se" data-index="134" data-item-type="treasure"><img src="./Granblue Fantasy_files/2001.jpg"><div class="prt-having-num">51</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="2001"></div>
+</div>
+<div class="lis-item se" data-index="135" data-item-type="treasure"><img src="./Granblue Fantasy_files/2002.jpg"><div class="prt-having-num">52</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="2002"></div>
+</div>
+<div class="lis-item se" data-index="136" data-item-type="treasure"><img src="./Granblue Fantasy_files/6001.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="6001"></div>
+</div>
+<div class="lis-item se" data-index="137" data-item-type="treasure"><img src="./Granblue Fantasy_files/6002.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="6002"></div>
+</div>
+<div class="lis-item se" data-index="138" data-item-type="treasure"><img src="./Granblue Fantasy_files/206.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="206"></div>
+</div>
+<div class="lis-item se" data-index="139" data-item-type="treasure"><img src="./Granblue Fantasy_files/207.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="207"></div>
+</div>
+<div class="lis-item se" data-index="140" data-item-type="treasure"><img src="./Granblue Fantasy_files/208.jpg"><div class="prt-having-num">24</div>
+<div class="watch-button" title="Show item on sidebar" itemid="208"></div>
+</div>
+<div class="lis-item se" data-index="141" data-item-type="treasure"><img src="./Granblue Fantasy_files/209.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="209"></div>
+</div>
+<div class="lis-item se" data-index="142" data-item-type="treasure"><img src="./Granblue Fantasy_files/1.jpg"><div class="prt-having-num">71</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="1"></div>
+</div>
+<div class="lis-item se" data-index="143" data-item-type="treasure"><img src="./Granblue Fantasy_files/4021.jpg"><div class="prt-having-num">36</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4021"></div>
+</div>
+<div class="lis-item se" data-index="144" data-item-type="treasure"><img src="./Granblue Fantasy_files/4041.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4041"></div>
+</div>
+<div class="lis-item se" data-index="145" data-item-type="treasure"><img src="./Granblue Fantasy_files/4051.jpg"><div class="prt-having-num">32</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4051"></div>
+</div>
+<div class="lis-item se" data-index="146" data-item-type="treasure"><img src="./Granblue Fantasy_files/4061.jpg"><div class="prt-having-num">132</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="4061"></div>
+</div>
+<div class="lis-item se" data-index="147" data-item-type="treasure"><img src="./Granblue Fantasy_files/4071.jpg"><div class="prt-having-num">14</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4071"></div>
+</div>
+<div class="lis-item se" data-index="148" data-item-type="treasure"><img src="./Granblue Fantasy_files/4081.jpg"><div class="prt-having-num">16</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4081"></div>
+</div>
+<div class="lis-item se" data-index="149" data-item-type="treasure"><img src="./Granblue Fantasy_files/4091.jpg"><div class="prt-having-num">32</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4091"></div>
+</div>
+<div class="lis-item se" data-index="150" data-item-type="treasure"><img src="./Granblue Fantasy_files/4101.jpg"><div class="prt-having-num">33</div>
+<div class="watch-button" title="Show item on sidebar" itemid="4101"></div>
+</div>
+<div class="lis-item se" data-index="151" data-item-type="treasure"><img src="./Granblue Fantasy_files/5011.jpg"><div class="prt-having-num">18</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5011"></div>
+</div>
+<div class="lis-item se" data-index="152" data-item-type="treasure"><img src="./Granblue Fantasy_files/5021.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5021"></div>
+</div>
+<div class="lis-item se" data-index="153" data-item-type="treasure"><img src="./Granblue Fantasy_files/5031.jpg"><div class="prt-having-num">27</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5031"></div>
+</div>
+<div class="lis-item se" data-index="154" data-item-type="treasure"><img src="./Granblue Fantasy_files/5041.jpg"><div class="prt-having-num">8</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5041"></div>
+</div>
+<div class="lis-item se" data-index="155" data-item-type="treasure"><img src="./Granblue Fantasy_files/5051.jpg"><div class="prt-having-num">26</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5051"></div>
+</div>
+<div class="lis-item se" data-index="156" data-item-type="treasure"><img src="./Granblue Fantasy_files/5061.jpg"><div class="prt-having-num">20</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5061"></div>
+</div>
+<div class="lis-item se" data-index="157" data-item-type="treasure"><img src="./Granblue Fantasy_files/5111.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5111"></div>
+</div>
+<div class="lis-item se" data-index="158" data-item-type="treasure"><img src="./Granblue Fantasy_files/5131.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5131"></div>
+</div>
+<div class="lis-item se" data-index="159" data-item-type="treasure"><img src="./Granblue Fantasy_files/5141.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5141"></div>
+</div>
+<div class="lis-item se" data-index="160" data-item-type="treasure"><img src="./Granblue Fantasy_files/5211.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5211"></div>
+</div>
+<div class="lis-item se" data-index="161" data-item-type="treasure"><img src="./Granblue Fantasy_files/5221.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5221"></div>
+</div>
+<div class="lis-item se" data-index="162" data-item-type="treasure"><img src="./Granblue Fantasy_files/5231.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5231"></div>
+</div>
+<div class="lis-item se" data-index="163" data-item-type="treasure"><img src="./Granblue Fantasy_files/5241.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="5241"></div>
+</div>
+<div class="lis-item se" data-index="164" data-item-type="treasure"><img src="./Granblue Fantasy_files/10214.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10214"></div>
+</div>
+<div class="lis-item se" data-index="165" data-item-type="treasure"><img src="./Granblue Fantasy_files/10207.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10207"></div>
+</div>
+<div class="lis-item se" data-index="166" data-item-type="treasure"><img src="./Granblue Fantasy_files/10146.jpg"><div class="prt-having-num">49</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10146"></div>
+</div>
+<div class="lis-item se" data-index="167" data-item-type="treasure"><img src="./Granblue Fantasy_files/10147.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10147"></div>
+</div>
+<div class="lis-item se" data-index="168" data-item-type="treasure"><img src="./Granblue Fantasy_files/10184.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10184"></div>
+</div>
+<div class="lis-item se" data-index="169" data-item-type="treasure"><img src="./Granblue Fantasy_files/10199.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10199"></div>
+</div>
+<div class="lis-item se" data-index="170" data-item-type="treasure"><img src="./Granblue Fantasy_files/10200.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10200"></div>
+</div>
+<div class="lis-item se" data-index="171" data-item-type="treasure"><img src="./Granblue Fantasy_files/10208.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10208"></div>
+</div>
+<div class="lis-item se" data-index="172" data-item-type="treasure"><img src="./Granblue Fantasy_files/10209.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10209"></div>
+</div>
+<div class="lis-item se" data-index="173" data-item-type="treasure"><img src="./Granblue Fantasy_files/10225.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10225"></div>
+</div>
+<div class="lis-item se" data-index="174" data-item-type="treasure"><img src="./Granblue Fantasy_files/10226.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10226"></div>
+</div>
+<div class="lis-item se" data-index="175" data-item-type="treasure"><img src="./Granblue Fantasy_files/10227.jpg"><div class="prt-having-num">7</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10227"></div>
+</div>
+<div class="lis-item se" data-index="176" data-item-type="treasure"><img src="./Granblue Fantasy_files/10022.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10022"></div>
+</div>
+<div class="lis-item se" data-index="177" data-item-type="treasure"><img src="./Granblue Fantasy_files/10116.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10116"></div>
+</div>
+<div class="lis-item se" data-index="178" data-item-type="treasure"><img src="./Granblue Fantasy_files/10210.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10210"></div>
+</div>
+<div class="lis-item se" data-index="179" data-item-type="treasure"><img src="./Granblue Fantasy_files/10195.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10195"></div>
+</div>
+<div class="lis-item se" data-index="180" data-item-type="treasure"><img src="./Granblue Fantasy_files/10196.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10196"></div>
+</div>
+<div class="lis-item se" data-index="181" data-item-type="treasure"><img src="./Granblue Fantasy_files/10197.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10197"></div>
+</div>
+<div class="lis-item se" data-index="182" data-item-type="treasure"><img src="./Granblue Fantasy_files/10016.jpg"><div class="prt-having-num">12</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10016"></div>
+</div>
+<div class="lis-item se" data-index="183" data-item-type="treasure"><img src="./Granblue Fantasy_files/10017.jpg"><div class="prt-having-num">17</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10017"></div>
+</div>
+<div class="lis-item se" data-index="184" data-item-type="treasure"><img src="./Granblue Fantasy_files/10018.jpg"><div class="prt-having-num">9</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10018"></div>
+</div>
+<div class="lis-item se" data-index="185" data-item-type="treasure"><img src="./Granblue Fantasy_files/10019.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10019"></div>
+</div>
+<div class="lis-item se" data-index="186" data-item-type="treasure"><img src="./Granblue Fantasy_files/20611.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20611"></div>
+</div>
+<div class="lis-item se" data-index="187" data-item-type="treasure"><img src="./Granblue Fantasy_files/10003.jpg"><div class="prt-having-num">12</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10003"></div>
+</div>
+<div class="lis-item se" data-index="188" data-item-type="treasure"><img src="./Granblue Fantasy_files/10004.jpg"><div class="prt-having-num">17</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10004"></div>
+</div>
+<div class="lis-item se" data-index="189" data-item-type="treasure"><img src="./Granblue Fantasy_files/10005.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10005"></div>
+</div>
+<div class="lis-item se" data-index="190" data-item-type="treasure"><img src="./Granblue Fantasy_files/10006.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10006"></div>
+</div>
+<div class="lis-item se" data-index="191" data-item-type="treasure"><img src="./Granblue Fantasy_files/20621.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20621"></div>
+</div>
+<div class="lis-item se" data-index="192" data-item-type="treasure"><img src="./Granblue Fantasy_files/10009.jpg"><div class="prt-having-num">112</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10009"></div>
+</div>
+<div class="lis-item se" data-index="193" data-item-type="treasure"><img src="./Granblue Fantasy_files/10010.jpg"><div class="prt-having-num">189</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10010"></div>
+</div>
+<div class="lis-item se" data-index="194" data-item-type="treasure"><img src="./Granblue Fantasy_files/10011.jpg"><div class="prt-having-num">209</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10011"></div>
+</div>
+<div class="lis-item se" data-index="195" data-item-type="treasure"><img src="./Granblue Fantasy_files/10012.jpg"><div class="prt-having-num">59</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10012"></div>
+</div>
+<div class="lis-item se" data-index="196" data-item-type="treasure"><img src="./Granblue Fantasy_files/20631.jpg"><div class="prt-having-num">21</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20631"></div>
+</div>
+<div class="lis-item se" data-index="197" data-item-type="treasure"><img src="./Granblue Fantasy_files/10204.jpg"><div class="prt-having-num">36</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10204"></div>
+</div>
+<div class="lis-item se" data-index="198" data-item-type="treasure"><img src="./Granblue Fantasy_files/10203.jpg"><div class="prt-having-num">156</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10203"></div>
+</div>
+<div class="lis-item se" data-index="199" data-item-type="treasure"><img src="./Granblue Fantasy_files/10025.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10025"></div>
+</div>
+<div class="lis-item se" data-index="200" data-item-type="treasure"><img src="./Granblue Fantasy_files/10026.jpg"><div class="prt-having-num">14</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10026"></div>
+</div>
+<div class="lis-item se" data-index="201" data-item-type="treasure"><img src="./Granblue Fantasy_files/10027.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10027"></div>
+</div>
+<div class="lis-item se" data-index="202" data-item-type="treasure"><img src="./Granblue Fantasy_files/10028.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10028"></div>
+</div>
+<div class="lis-item se" data-index="203" data-item-type="treasure"><img src="./Granblue Fantasy_files/20641.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20641"></div>
+</div>
+<div class="lis-item se" data-index="204" data-item-type="treasure"><img src="./Granblue Fantasy_files/10044.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10044"></div>
+</div>
+<div class="lis-item se" data-index="205" data-item-type="treasure"><img src="./Granblue Fantasy_files/10045.jpg"><div class="prt-having-num">9</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10045"></div>
+</div>
+<div class="lis-item se" data-index="206" data-item-type="treasure"><img src="./Granblue Fantasy_files/10046.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10046"></div>
+</div>
+<div class="lis-item se" data-index="207" data-item-type="treasure"><img src="./Granblue Fantasy_files/10047.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10047"></div>
+</div>
+<div class="lis-item se" data-index="208" data-item-type="treasure"><img src="./Granblue Fantasy_files/20651.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20651"></div>
+</div>
+<div class="lis-item se" data-index="209" data-item-type="treasure"><img src="./Granblue Fantasy_files/10063.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10063"></div>
+</div>
+<div class="lis-item se" data-index="210" data-item-type="treasure"><img src="./Granblue Fantasy_files/10064.jpg"><div class="prt-having-num">4</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10064"></div>
+</div>
+<div class="lis-item se" data-index="211" data-item-type="treasure"><img src="./Granblue Fantasy_files/10065.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10065"></div>
+</div>
+<div class="lis-item se" data-index="212" data-item-type="treasure"><img src="./Granblue Fantasy_files/10066.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10066"></div>
+</div>
+<div class="lis-item se" data-index="213" data-item-type="treasure"><img src="./Granblue Fantasy_files/20661.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20661"></div>
+</div>
+<div class="lis-item se" data-index="214" data-item-type="treasure"><img src="./Granblue Fantasy_files/10031.jpg"><div class="prt-having-num">213</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10031"></div>
+</div>
+<div class="lis-item se" data-index="215" data-item-type="treasure"><img src="./Granblue Fantasy_files/10032.jpg"><div class="prt-having-num">189</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10032"></div>
+</div>
+<div class="lis-item se" data-index="216" data-item-type="treasure"><img src="./Granblue Fantasy_files/10033.jpg"><div class="prt-having-num">28</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10033"></div>
+</div>
+<div class="lis-item se" data-index="217" data-item-type="treasure"><img src="./Granblue Fantasy_files/10034.jpg"><div class="prt-having-num">57</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10034"></div>
+</div>
+<div class="lis-item se" data-index="218" data-item-type="treasure"><img src="./Granblue Fantasy_files/10150.jpg"><div class="prt-having-num">12</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10150"></div>
+</div>
+<div class="lis-item se" data-index="219" data-item-type="treasure"><img src="./Granblue Fantasy_files/10050.jpg"><div class="prt-having-num">45</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10050"></div>
+</div>
+<div class="lis-item se" data-index="220" data-item-type="treasure"><img src="./Granblue Fantasy_files/10051.jpg"><div class="prt-having-num">66</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10051"></div>
+</div>
+<div class="lis-item se" data-index="221" data-item-type="treasure"><img src="./Granblue Fantasy_files/10052.jpg"><div class="prt-having-num">28</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10052"></div>
+</div>
+<div class="lis-item se" data-index="222" data-item-type="treasure"><img src="./Granblue Fantasy_files/10053.jpg"><div class="prt-having-num">18</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10053"></div>
+</div>
+<div class="lis-item se" data-index="223" data-item-type="treasure"><img src="./Granblue Fantasy_files/10151.jpg"><div class="prt-having-num">2</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10151"></div>
+</div>
+<div class="lis-item se" data-index="224" data-item-type="treasure"><img src="./Granblue Fantasy_files/20001.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20001"></div>
+</div>
+<div class="lis-item se" data-index="225" data-item-type="treasure"><img src="./Granblue Fantasy_files/20002.jpg"><div class="prt-having-num">79</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20002"></div>
+</div>
+<div class="lis-item se" data-index="226" data-item-type="treasure"><img src="./Granblue Fantasy_files/20003.jpg"><div class="prt-having-num">18</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20003"></div>
+</div>
+<div class="lis-item se" data-index="227" data-item-type="treasure"><img src="./Granblue Fantasy_files/20011.jpg"><div class="prt-having-num">45</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20011"></div>
+</div>
+<div class="lis-item se" data-index="228" data-item-type="treasure"><img src="./Granblue Fantasy_files/20012.jpg"><div class="prt-having-num">35</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20012"></div>
+</div>
+<div class="lis-item se" data-index="229" data-item-type="treasure"><img src="./Granblue Fantasy_files/20021.jpg"><div class="prt-having-num">22</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20021"></div>
+</div>
+<div class="lis-item se" data-index="230" data-item-type="treasure"><img src="./Granblue Fantasy_files/20022.jpg"><div class="prt-having-num">26</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20022"></div>
+</div>
+<div class="lis-item se" data-index="231" data-item-type="treasure"><img src="./Granblue Fantasy_files/20031.jpg"><div class="prt-having-num">27</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20031"></div>
+</div>
+<div class="lis-item se" data-index="232" data-item-type="treasure"><img src="./Granblue Fantasy_files/20032.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20032"></div>
+</div>
+<div class="lis-item se" data-index="233" data-item-type="treasure"><img src="./Granblue Fantasy_files/20041.jpg"><div class="prt-having-num">145</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20041"></div>
+</div>
+<div class="lis-item se" data-index="234" data-item-type="treasure"><img src="./Granblue Fantasy_files/20042.jpg"><div class="prt-having-num">123</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20042"></div>
+</div>
+<div class="lis-item se" data-index="235" data-item-type="treasure"><img src="./Granblue Fantasy_files/20111.jpg"><div class="prt-having-num">9</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20111"></div>
+</div>
+<div class="lis-item se" data-index="236" data-item-type="treasure"><img src="./Granblue Fantasy_files/20121.jpg"><div class="prt-having-num">3</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20121"></div>
+</div>
+<div class="lis-item se" data-index="237" data-item-type="treasure"><img src="./Granblue Fantasy_files/20131.jpg"><div class="prt-having-num">5</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20131"></div>
+</div>
+<div class="lis-item se" data-index="238" data-item-type="treasure"><img src="./Granblue Fantasy_files/20141.jpg"><div class="prt-having-num">51</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20141"></div>
+</div>
+<div class="lis-item se" data-index="239" data-item-type="treasure"><img src="./Granblue Fantasy_files/20211.jpg"><div class="prt-having-num">47</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="20211"></div>
+</div>
+<div class="lis-item se" data-index="240" data-item-type="treasure"><img src="./Granblue Fantasy_files/20221.jpg"><div class="prt-having-num">32</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="20221"></div>
+</div>
+<div class="lis-item se" data-index="241" data-item-type="treasure"><img src="./Granblue Fantasy_files/20461.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20461"></div>
+</div>
+<div class="lis-item se" data-index="242" data-item-type="treasure"><img src="./Granblue Fantasy_files/20491.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20491"></div>
+</div>
+<div class="lis-item se" data-index="243" data-item-type="treasure"><img src="./Granblue Fantasy_files/20511.jpg"><div class="prt-having-num">1</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20511"></div>
+</div>
+<div class="lis-item se" data-index="244" data-item-type="treasure"><img src="./Granblue Fantasy_files/20711.jpg"><div class="prt-having-num">10</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20711"></div>
+</div>
+<div class="lis-item se" data-index="245" data-item-type="treasure"><img src="./Granblue Fantasy_files/20721.jpg"><div class="prt-having-num">15</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20721"></div>
+</div>
+<div class="lis-item se" data-index="246" data-item-type="treasure"><img src="./Granblue Fantasy_files/20731.jpg"><div class="prt-having-num">21</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20731"></div>
+</div>
+<div class="lis-item se" data-index="247" data-item-type="treasure"><img src="./Granblue Fantasy_files/20741.jpg"><div class="prt-having-num">9</div>
+<div class="watch-button" title="Show item on sidebar" itemid="20741"></div>
+</div>
+<div class="lis-item se" data-index="248" data-item-type="treasure"><img src="./Granblue Fantasy_files/30031.jpg"><div class="prt-having-num">29</div>
+<div class="watch-button" title="Show item on sidebar" itemid="30031"></div>
+</div>
+<div class="lis-item se" data-index="249" data-item-type="treasure"><img src="./Granblue Fantasy_files/30032.jpg"><div class="prt-having-num">14</div>
+<div class="watch-button" title="Show item on sidebar" itemid="30032"></div>
+</div>
+<div class="lis-item se" data-index="250" data-item-type="treasure"><img src="./Granblue Fantasy_files/30033.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button" title="Show item on sidebar" itemid="30033"></div>
+</div>
+<div class="lis-item se" data-index="251" data-item-type="treasure"><img src="./Granblue Fantasy_files/203.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="203"></div>
+</div>
+<div class="lis-item se" data-index="252" data-item-type="treasure"><img src="./Granblue Fantasy_files/61.jpg"><div class="prt-having-num">6</div>
+<div class="watch-button active" title="Show item on sidebar" itemid="61"></div>
+</div>
+<div class="lis-item se" data-index="253" data-item-type="treasure"><img src="./Granblue Fantasy_files/91001.jpg"><div class="prt-having-num">60</div>
+<div class="watch-button" title="Show item on sidebar" itemid="91001"></div>
+</div>
+<div class="lis-item se" data-index="254" data-item-type="treasure"><img src="./Granblue Fantasy_files/40001.jpg"><div class="prt-having-num">52</div>
+<div class="watch-button" title="Show item on sidebar" itemid="40001"></div>
+</div>
+<div class="lis-item se" data-index="255" data-item-type="treasure"><img src="./Granblue Fantasy_files/10202.jpg"><div class="prt-having-num">0</div>
+<div class="watch-button" title="Show item on sidebar" itemid="10202"></div>
+</div>
+<div class="lis-item se" data-index="256" data-item-type="treasure"><img src="./Granblue Fantasy_files/95002.jpg"><div class="prt-having-num">241</div>
+<div class="watch-button" title="Show item on sidebar" itemid="95002"></div>
+</div>

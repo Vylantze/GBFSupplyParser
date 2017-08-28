@@ -4,6 +4,7 @@
 using namespace std;
 
 const string inputFilename = "Granblue Fantasy.html";
+const string tempFile = "temp.txt";
 const string outputFilename = "GBF_Supply.txt";
 
 const enum Type { 
@@ -42,10 +43,7 @@ void printItem(Item item) {
 
 void main() {
 	const string searchString = "<div class=\"lis-item se\" data-index=\"";
-	const string evolSearchString = "<div class=\"lis-item btn-evolution";
-	const string otherSearchString = "<div class=\"lis-item btn-enhancement-npc";
-	const string ticketSearchString = "<div class=\"prt-tickets-num\">";
-	const string imgString = "<img src=";
+	const string imgString = "<img src=\"";
 	const string endString = "</div>";
 	const string terminateString = "<%= index %>";
 	ifstream html;
@@ -58,8 +56,102 @@ void main() {
 	int evolutionIndex = 0;
 	int ticketIndex = 0;
 
+	// First run through one time and filter out the correct data
+	// Then replace all </div> with </div>\n
 	html.open(inputFilename, ios::in);
+	if (html.is_open()) {
+		output.open(tempFile, ios::out);
+		while (!html.eof()) {
+			getline(html, line);
+			found = line.find(searchString);
+			if (found == string::npos) {
+				continue;
+			} // else an object has been found
 
+			// if it has been found, find and output everything in appropriate order
+			found = line.find(endString);
+			while(found != string::npos) {
+				temp = line.substr(0, found + endString.length());
+				line = line.substr(found + endString.length());
+				found = line.find(endString);
+				output << temp << endl;
+			}
+			
+			break;
+		}
+	}
+	html.close();
+	output.close();
+
+	// Now actual work
+	html.open(tempFile, ios::in);
+	if (html.is_open()) {
+		output.open(outputFilename, ios::out);
+		output << "Index	Quantity	ImageName" << endl;
+		while (!html.eof()) {
+			// Create a new object
+			Item newItem;
+			getline(html, line);
+			found = line.find(searchString);
+			if (found == string::npos) {
+					continue;
+			} // else an object has been found
+
+			// Get index
+			line = line.substr(found + searchString.length());
+			temp = line.substr(0, line.find('\"'));
+			
+			if (temp == terminateString) { // if it is no longer a valid number
+				break;
+			}
+			else {
+				newItem.index = stoi(temp); // add index
+			}
+
+			// Else, keep searching for the img
+			found = line.find(imgString);
+			if (found != string::npos) {
+				line = line.substr(found + imgString.length());
+				temp = line.substr(0, line.find('\"'));
+				temp = temp.substr(temp.find_last_of("/") + 1);
+				
+				newItem.imageName = temp;
+				// continue;
+			}
+
+			// Then finally get the quantity
+			found = line.find(endString);
+			if (found != string::npos) {
+				// Get quantity (most important part)
+				temp = line.substr(0, found);
+				temp = temp.substr(temp.find_last_of(">") + 1);
+				newItem.quantity = stoi(temp);
+			}
+
+			printItem(newItem);
+			if (newItem.type != N) {
+				output << getEnumType(newItem.type);
+			}
+			output
+				<< newItem.index << "	"
+				<< newItem.quantity << "	"
+				<< newItem.imageName
+				<< endl;
+		} // end-while loop for file
+	} // end-if file open
+	html.close();
+	output.close();
+	
+
+	/* // Old
+	const string searchString = "<div class=\"lis-item se\" data-index=\"";
+	const string evolSearchString = "<div class=\"lis-item btn-evolution";
+	const string otherSearchString = "<div class=\"lis-item btn-enhancement-npc";
+	const string ticketSearchString = "<div class=\"prt-tickets-num\">";
+	const string imgString = "<img src=";
+	const string endString = "</div>";
+	const string terminateString = "<%= index %>";
+	html.open(inputFilename, ios::in);
 	if (html.is_open()) {
 		output.open(outputFilename, ios::out);
 		output << "Index	Quantity	ImageName" << endl;
@@ -147,4 +239,5 @@ void main() {
 	output.close();
 	//cout << "Done" << endl;
 	//system("pause");
+	*/
 }
